@@ -442,6 +442,7 @@ color: var(--primary-text-color);
  background-color: var(--third-background-color);
  width: 53px;
  height: 53px;
+ min-width: 53px;
  border-radius: 9px;
  -webkit-border-radius: 9px;
  -moz-border-radius: 9px;
